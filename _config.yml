@@ -1,0 +1,14 @@
+layout_spectrum: 0.6359615363180637
+typography_spectrum: 0.48235730547457933
+color:
+  brandStrength: 0.8657858381047845
+  lightness: 0.21265343436971307
+  saturation: 0.25431105378083885
+  rhythmicContrast: 0.14120502606965601
+  brandColors:
+    - '#EFEFEF'
+    - '#BFBFBF'
+    - '#1B1B1B'
+    - '#535353'
+    - '#A97962'
+name: hearing
